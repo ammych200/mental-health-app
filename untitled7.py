@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TELbPE7jaV74h5IYcYFS8_H7_2V4XPKV
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 import numpy as np
 import pandas as pd
 import seaborn as sns
